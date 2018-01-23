@@ -312,7 +312,7 @@ img.thumb.mli-thumb{ width: 100% !important; height: auto !important; min-height
 .ml-item.ml-item-remove:after{ content: "Removed"; text-align: center; color: #fff; z-index: 10; font-size: 14px; position: absolute; background: #888; top: 0; left: 0; right: 0; line-height: 1.6em;}
 .mli-fixed{ position: absolute; top: 0px; left: 0px; background: #E1D000; font-size: 12px; color: #fff; padding: 3px 8px; font-weight: bold; display: inline-block; width: 100%; z-index: 9; text-align: center;}
 .ann-home{ background: #475577 !important;}
-footer{ background: #2c3549; padding: 20px 0 40px; color: #fff; margin-top: 30px;}
+footer{ background: #13151a; padding: 20px 0 40px; color: #a1a1a1; margin-top: 30px;}
 footer a{ color: #ccc;}
 #footer .footer-link{float: left; margin-right: 60px;}
 #footer .footer-link.end{ margin-right: 0;}
