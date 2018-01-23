@@ -129,9 +129,8 @@ header .header-logo h1{ font-size: 0; margin: 0;}
 .movies-list-wrap .ml-title span{font-size: 16px; text-transform: uppercase; font-family: 'Droid Sans'; font-weight: 500; letter-spacing: 1px; display: inline-block; padding: 0 20px; height: 40px; line-height: 40px; background: #00acc1; color: #fff; border-radius: 3px 3px 0 0;}
 .movies-list-wrap .ml-title span i{ font-size: 14px;}
 .movies-list-wrap .ml-title .nav-tabs{ display: inline-block; margin-left: 15px; border-bottom: none;}
-.movies-list-wrap .ml-title .nav-tabs li.active a{ border-radius: 3px;}
-.movies-list-wrap .ml-title .nav-tabs li a{ border: none; height: 40px; line-height: 40px; padding: 0 15px; text-align: center; min-width: 80px; color: #8e95a5;background-color: #0d0e11;}
-.movies-list-wrap .ml-title .nav-tabs li a:hover:{ border: none; color: #8e95a5;background-color: #0d0e11;}
+.movies-list-wrap .ml-title .nav-tabs li.active a{ border-radius: 3px;color: #8e95a5;background-color: #0d0e11;}
+.movies-list-wrap .ml-title .nav-tabs li a{ border: none; height: 40px; line-height: 40px; padding: 0 15px; text-align: center; min-width: 80px; color: #8e95a5;background-color: none;}
 .movies-list{ display: block; margin: 0 -1%;}
 .movies-list .ml-item{ width: 10.5%; margin: 1%; border-radius: 5px; float: left; position: relative; height: 260px; overflow: hidden;}
 .movies-list .ml-item .mli-quality{ background: #FED700; border-radius: 3px; color: #222; font-size: 11px; font-weight: 500; height: auto; line-height: normal; padding: 4px 6px; position: absolute; right: 8px; top: 8px; width: auto; z-index: 4;}
