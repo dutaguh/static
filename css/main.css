@@ -1065,7 +1065,7 @@ i.subc-email{ width: 20px; height: 14px; background-image: url(../images/subc-em
     .news-list-head{ padding: 0 !important; text-align: center;}
     .news-list-head .nlh{ margin-right: 0 !important; display: block !important; width: 100%; float: none !important;}
     .box .box-head .nav-tabs li a{ font-size: 12px; padding: 0 10px;}
-    .box .box-head .nav-tabs{ width: 100% !important; display: block !important; float: none !important; background:rgba(0,0,0,0.2);}
+    .box .box-head .nav-tabs{ width: 100% !important; display: block !important; float: none !important; background:#0d0e11;}
     footer .footer-subs{ float: none; width: 100%;}
     footer .footer-copyright{ float: none; width: 100%; padding-top: 20px;}
     #filter .cs10-top .fc-filmtype{ float: none; width: 100%;}
