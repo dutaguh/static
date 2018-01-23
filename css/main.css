@@ -159,7 +159,7 @@ img.thumb.mli-thumb{ width: 100% !important; height: auto !important; min-height
 #mv-info .mvi-cover:hover:before{ border: 8px solid rgba(255,255,255,1); box-shadow: 0 0 30px rgba(0,0,0,0.3);}
 #mv-info .mvi-cover:hover:after{  background: rgba(0,0,0,0.1); box-shadow: 0 0 150px rgba(0,0,0,0.4) inset;}
 #mv-info .mvi-view{ position: absolute; color: #fff; bottom: 20px; right: 25px; font-size: 18px; font-weight: bold; font-style: italic; z-index: 9; text-shadow: 0 1px 1px rgba(0,0,0,0.5);}
-#mv-info .mvi-content{ background: #fff; padding: 20px;  font-size: 12px; position: relative; width: 100%; margin-top: -5px;}
+#mv-info .mvi-content{ background: #1e2129; padding: 20px;  font-size: 12px; position: relative; width: 100%; margin-top: -5px;}
 #mv-info .mvi-content h3{ font-size: 20px; line-height: 28px; margin: 0; margin-bottom: 10px; display: initial; margin-right: 10px;}
 #mv-info .mvi-content .block-trailer{ display: inline-block; vertical-align: middle; margin-bottom: 10px;}
 #mv-info .mvi-content .block-trailer a{ border-radius: 15px; padding: 4px 15px; font-size: 12px; cursor: pointer;}
@@ -174,7 +174,7 @@ img.thumb.mli-thumb{ width: 100% !important; height: auto !important; min-height
 #mv-info .mvi-content .mvic-btn .btn{ margin: 8px 0;}
 #mv-info .mvi-content .quality{ display: inline-block; font-size: 11px; text-transform: uppercase; background: #222; color: #fff; margin-left: 2px; padding: 2px 5px; border-radius: 3px;}
 #mv-info .mvi-content .block-social{ display: block; margin-bottom: 10px;}
-#mv-keywords{ margin-bottom: 20px; padding: 20px; display: block; clear: both; background: #f5f5f5;}
+#mv-keywords{ margin-bottom: 20px; padding: 20px; display: block; clear: both; background: #1e2129;}
 #mv-keywords a{ margin: 5px 15px 5px 0; color: #888;}
 #mv-keywords a:hover{ color: #0397D6;}
 #mv-keywords a h5{ font-size: 14px; font-weight: normal; white-space: nowrap; display: inline-block; margin: 0;}
