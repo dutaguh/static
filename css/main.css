@@ -21,7 +21,7 @@ a:active, a:focus{outline:none;}
 .flr{ float: right; }
 .clr {clear: both; }
 .btn-block{ border-radius: 3px;}
-.btn-successful{ background: #0397D6 !important; border: none; color: #fff !important}
+.btn-successful{ background: #00acc1 !important; border: none; color: #fff !important}
 .btn-default{ background: #eee; border: none;}
 .btn-primary{ background: #3598DB; border: none;}
 .btn-danger{ background: #DF091E; border: none;}
@@ -130,6 +130,7 @@ header .header-logo h1{ font-size: 0; margin: 0;}
 .movies-list-wrap .ml-title span i{ font-size: 14px;}
 .movies-list-wrap .ml-title .nav-tabs{ display: inline-block; margin-left: 15px; border-bottom: none;}
 .movies-list-wrap .ml-title .nav-tabs li.active a{ border-radius: 3px;color: #8e95a5;background-color: #0d0e11;}
+.movies-list-wrap .ml-title .nav-tabs li a:hover{ border-radius: 3px;color: #8e95a5;background-color: #0d0e11;}
 .movies-list-wrap .ml-title .nav-tabs li a{ border: none; height: 40px; line-height: 40px; padding: 0 15px; text-align: center; min-width: 80px; color: #8e95a5;background-color: none;}
 .movies-list{ display: block; margin: 0 -1%;}
 .movies-list .ml-item{ width: 10.5%; margin: 1%; border-radius: 5px; float: left; position: relative; height: 260px; overflow: hidden;}
