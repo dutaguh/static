@@ -318,7 +318,7 @@ footer a{ color: #ccc;}
 #footer .footer-link.end{ margin-right: 0;}
 #footer .footer-link-head{ font-size: 16px;}
 .footer-blk{ color: #2C3549 !important; font-size: 10px;}
-#commentfb{ padding:10px 20px; margin: 20px 0; background: #fff; display: block;}
+#commentfb{ padding:10px 20px; margin: 20px 0; background: none; display: block;}
 .infopage{ background: #fff; box-shadow: 0 0 5px rgba(0,0,0,0.1);}
 .infopage .infopage-head{ display: block; padding: 10px 20px; border-bottom: 1px solid #eee; font-size: 20px; background: #f8f8f8;}
 .infopage .content{ padding: 15px 20px;}
@@ -484,7 +484,7 @@ footer a{ color: #ccc;}
 #filter .filter-btn{ position: absolute; bottom: 0; left: 0; width: 100%; text-align: center; padding: 20px 0; border-top: 1px solid #eee;}
 #filter .cs10-top .fc-filmtype{ float: left; width: 50%;}
 #filter .cs10-top .fc-quality{ margin-left: 52%;}
-#list-eps{ background: #fff; margin-bottom: 20px;}
+#list-eps{ background: none; margin-bottom: 20px;}
 #list-eps .le-server{ padding: 10px 20px; border-bottom: 1px solid #eee;}
 #list-eps .le-server:last-of-type{ border-bottom: none;}
 #list-eps .le-server .les-title{ display: inline-block; width: 120px; float: left; padding-top: 10px;}
