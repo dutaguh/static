@@ -150,8 +150,8 @@ img.thumb.mli-thumb{ width: 100% !important; height: auto !important; min-height
 .page-detail{}
 .page-detail .pad{ height: 20px;}
 .main-detail{width: 1200px; margin: 0 auto;}
-#bread .breadcrumb{ padding: 0; background: none; color: #333;}
-#bread .breadcrumb a{ color: #333;}
+#bread .breadcrumb{ padding: 0; background: none; color: #777;}
+#bread .breadcrumb a{ color: #777;}
 #mv-info{ margin-bottom: 0; position: relative;}
 #mv-info .mvi-cover{ height: 500px; width: 100%; position: relative;}
 #mv-info .mvi-cover:after{ content: ""; width: 100%; height: 100%; position: absolute; top: 0; left: 0; background: rgba(0,0,0,0.3);transition: all 0.3s ease 0s; -webkit-transition: all 0.3s ease 0s;}
