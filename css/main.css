@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Montserrat:400,700);
-body {background: #e8ebf5;font-size: 14px; font-weight: normal; color: #333;margin: 0px;padding: 0px; -webkit-text-size-adjust: none; position: relative;}
+body {background: #1e2129;font-size: 14px; font-weight: normal; color: #8e95a5;margin: 0px;padding: 0px; -webkit-text-size-adjust: none; position: relative;}
 h1, h2, h3, h4, h5, h6{ font-weight: bold;}
 a {color: #0397D6; text-decoration:none !important; outline:none; -moz-outline: none; }
 a:hover {color: #0082b9; text-decoration: none; }
@@ -36,7 +36,7 @@ header .header-logo{margin-right: 10px; margin-top: 7px; position: relative; dis
 header .header-logo:after{background: #eee none repeat scroll 0 0;content: ""; display: inline-block; height: 45px; position: absolute; right: -30px;top: 5px; width: 1px;}
 header .header-logo h1{ font-size: 0; margin: 0;}
 /*.header-pad{ height: 70px; width: 100%;}*/
-#logo{ background-image: url(../images/gomovies-logo-light.png); background-position: 50% 25%; background-size: cover; height: 49px; width: 187px; display: inline-block;}
+#logo{ background-image: url(../images/logo.gif); background-position: 50% 25%; background-size: cover; height: 49px; width: 187px; display: inline-block;}
 #menu{ float: left;}
 #menu ul.top-menu{ list-style: none; padding: 0}
 #menu ul.top-menu li{ display: inline-block; float: left; margin:0 5px; position: relative}
