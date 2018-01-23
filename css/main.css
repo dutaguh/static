@@ -109,7 +109,7 @@ header .header-logo h1{ font-size: 0; margin: 0;}
 #top-news .top-news-content ul.tn-premium li a .price{ font-size: 40px; display: block;}
 #top-news .top-news-content ul.tn-premium li a .btn{ display: block; margin-top: 10px;}
 .survey, .social-home{ padding: 15px; text-align: center; background: #fff url(../images/survey.jpg) bottom left no-repeat; position: relative; box-shadow: 0 3px 3px 0 rgba(0,0,0,0.2);}
-.social-home{ background: #fff; text-align: left; height: 50px;}
+.social-home{ background: #0d0e11; text-align: left; height: 50px;}
 .social-home .addthis_inline_share_toolbox{ display: inline-block; float: left; height: 20px;}
 .social-home .sh-like{ float: left; margin-right: 2px;}
 .social-home .at-share-tbx-element .addthis_button_facebook_like{ display: none !important;}
