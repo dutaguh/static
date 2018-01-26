@@ -36,7 +36,7 @@ header .header-logo{margin-right: 10px; margin-top: 7px; position: relative; dis
 header .header-logo:after{background: #eee none repeat scroll 0 0;content: ""; display: inline-block; height: 45px; position: absolute; right: -30px;top: 5px; width: 1px;}
 header .header-logo h1{ font-size: 0; margin: 0;}
 /*.header-pad{ height: 70px; width: 100%;}*/
-#logo{ background-image: url(../images/logo.gif); background-position: 50% 25%; background-size: cover; height: 49px; width: 187px; display: inline-block;}
+#logo{ background-image: url(../images/logo.png); background-position: 50% 25%; background-size: cover; height: 49px; width: 187px; display: inline-block;}
 #menu{ float: left;}
 #menu ul.top-menu{ list-style: none; padding: 0}
 #menu ul.top-menu li{ display: inline-block; float: left; margin:0 5px; position: relative}
@@ -670,10 +670,10 @@ i.subc-email{ width: 20px; height: 14px; background-image: url(../images/subc-em
 .content-kuss iframe{ max-width: 100%;}
 .fav-movie-remove{ display: none;}
 .modal-subc h4{color: #0397D6 !important;}
-.mv-ft-logo{width: 240px; margin: 15px 0 15px; background-image: url("../images/gomovies-logo-dark.png"); background-position: 50% 25%; background-size: cover; display: inline-block;height: 49px;width: 187px;}
+.mv-ft-logo{width: 240px; margin: 15px 0 15px; background-image: url("../images/logo.png"); background-position: 50% 25%; background-size: cover; display: inline-block;height: 49px;width: 187px;}
 .home-main{text-align: center; max-width: 800px; margin: 180px auto;}
 .home-main .hm-logo{ margin-bottom: 30px;}
-.home-main .hm-logo a{display: inline-block; background-image: url(../images/gomovies-logo-light.png); background-size: cover; background-position: 50% 25%; width: 280px; height: 73.5px;}
+.home-main .hm-logo a{display: inline-block; background-image: url(../images/logo.png); background-size: cover; background-position: 50% 25%; width: 280px; height: 73.5px;}
 .home-main #hm-search{ width: 100%; display: inline-block; margin: 0 auto 60px; position: relative;}
 .home-main #hm-search .form-control{ height: 56px; background: #fff; font-size: 20px; padding-left: 20px; padding-right: 90px; box-shadow: none; color: #111; border: 1px solid rgba(0,0,0,0.2); border-radius: 5px;}
 .home-main #hm-search .form-control:focus{border-color: #0397D6}
