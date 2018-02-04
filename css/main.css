@@ -164,7 +164,7 @@ img.thumb.mli-thumb{ width: 100% !important; height: auto !important; min-height
 #mv-info .mvi-content h3{ font-size: 20px; line-height: 28px; margin: 0; margin-bottom: 10px; display: initial; margin-right: 10px;}
 #mv-info .mvi-content .block-trailer{ display: inline-block; vertical-align: middle; margin-bottom: 10px;}
 #mv-info .mvi-content .block-trailer a{ border-radius: 15px; padding: 4px 15px; font-size: 12px; cursor: pointer;}
-#mv-info .mvi-content .mvic-desc{ width: 700px; margin-right: 20px; min-height: 210px; float: left; padding-right: 20px; border-right: 1px solid #eee;}
+#mv-info .mvi-content .mvic-desc{ width: 700px; margin-right: 20px; min-height: 210px; float: left; padding-right: 20px; border-right: none;}
 #mv-info .mvi-content .mvic-desc .desc{ width: 100%; margin-bottom: 10px; font-size: 12px; font-style: italic; color: #aaa; min-height: 50px;}
 #mv-info .mvi-content .mvic-info{ width: 100%; display: block;}
 #mv-info .mvi-content .mvic-info p{ margin-bottom: 3px;}
@@ -180,7 +180,7 @@ img.thumb.mli-thumb{ width: 100% !important; height: auto !important; min-height
 #mv-keywords a:hover{ color: #0397D6;}
 #mv-keywords a h5{ font-size: 14px; font-weight: normal; white-space: nowrap; display: inline-block; margin: 0;}
 #mv-keywords a h5:before{ content: '#';}
-.mv-rating{ text-align: left; font-size: 14px; position: relative; margin-top: 5px;}
+.mv-rating{ text-align: left; font-size: 14px; position: relative; margin-top: 25px;}
 .mv-rating .star-rating .caption{ font-size: 12px; text-transform: uppercase;}
 .mv-rating .star-rating{ display: inline-block; height: 24px !important; font-size: 20px !important;}
 .mv-rating label{ display: block; margin-bottom: -2px; font-size: 10px; font-weight: normal; text-transform: uppercase; padding-top: 2px; padding-left: 2px;}
