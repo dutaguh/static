@@ -186,8 +186,8 @@ img.thumb.mli-thumb{ width: 100% !important; height: auto !important; min-height
 #mv-info .mvi-content .mvic-info .mvici-left{ float: left; width: 48%; margin-right: 2%}
 #mv-info .mvi-content .mvic-info .mvici-right{ float: left; width: 50%;}
 #mv-info .mvi-content .mvic-thumb{ width: 140px; height: 210px; float: left; margin-right: 20px;}
-#mv-info .mvi-content .mvic-btn{ position: absolute; top: 10px; right: 20px; left: 900px; bottom: 20px;}
-#mv-info .mvi-content .mvic-btn .btn{ margin: 8px 0;}
+#mv-info .mvi-content .mvic-btn{ position: absolute; top: 10px; right: 0px; left: 900px; bottom: 20px;}
+#mv-info .mvi-content .mvic-btn .btn{ margin: 15px 0;}
 #mv-info .mvi-content .quality{ display: inline-block; font-size: 11px; text-transform: uppercase; background: #222; color: #fff; margin-left: 2px; padding: 2px 5px; border-radius: 3px;}
 #mv-info .mvi-content .block-social{ display: block; margin-bottom: 10px;}
 #mv-keywords{ margin-bottom: 20px; padding: 20px; display: block; clear: both; background: #1e2129;}
