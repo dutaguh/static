@@ -512,7 +512,7 @@ footer a{ color: #ccc;}
 .faq-div{ margin-top: -10px;}
 .faq-div h3{ font-size: 14px; font-weight: bold; display: block; margin: 0; padding: 0 10px 0 42px; position: relative; height: 34px; display: table-cell; vertical-align: middle;}
 .faq-div a h3{ color: #a1a1a1;}
-.faq-div span{ height: 34px; width: 34px; line-height: 32px; text-align: center; font-weight: bold; background: #0397D6; color: #fff; position: absolute; top: 10px; left: -1px; border-radius: 3px;}
+.faq-div span{ height: 34px; width: 34px; line-height: 32px; text-align: center; font-weight: bold; background: #00acc1; color: #fff; position: absolute; top: 10px; left: -1px; border-radius: 3px;}
 .faq-div p{ padding-left: 42px;}
 .faq-div ul{ list-style: none; padding: 0;}
 .faq-div ul li{ padding: 10px 0; box-shadow: none; border-bottom: 1px solid #eee; margin-top: 0 !important; position: relative; min-height: 54px;background: none !important;}
