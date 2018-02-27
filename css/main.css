@@ -335,7 +335,7 @@ footer a{ color: #ccc;}
 #footer .footer-link-head{ font-size: 16px;}
 .footer-blk{ color: #2C3549 !important; font-size: 10px;}
 #commentfb{ padding:10px 20px; margin: 20px 0; background: none; display: block;}
-.infopage{ background: none; box-shadow: 0 0 5px rgba(0,0,0,0.1);}
+.infopage{ background: none;}
 .infopage .infopage-head{ display: block; padding: 10px 20px; border-bottom: 1px solid #eee; font-size: 20px; background: none;}
 .infopage .content{ padding: 15px 20px;}
 .infopage .ip-left{ width: 49%; float: left; margin-right: 1%;}
@@ -515,7 +515,7 @@ footer a{ color: #ccc;}
 .faq-div span{ height: 34px; width: 34px; line-height: 32px; text-align: center; font-weight: bold; background: #0397D6; color: #fff; position: absolute; top: 10px; left: -1px; border-radius: 3px;}
 .faq-div p{ padding-left: 42px;}
 .faq-div ul{ list-style: none; padding: 0;}
-.faq-div ul li{ padding: 10px 0; box-shadow: none; border-bottom: 1px solid #eee; margin-top: 0 !important; position: relative; min-height: 54px;background-color: none !important;}
+.faq-div ul li{ padding: 10px 0; box-shadow: none; border-bottom: 1px solid #eee; margin-top: 0 !important; position: relative; min-height: 54px;background: none !important;}
 .page-404{ background: #fff url(../images/404.jpg) bottom center no-repeat; margin-bottom: -30px; width: 100%; height: 315px; position: absolute;}
 .not-found{ text-align: center;}
 .not-found h1{ font-size: 140px; font-family: "Montserrat"; margin-top:100px;}
