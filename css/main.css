@@ -689,7 +689,7 @@ i.subc-email{ width: 20px; height: 14px; background-image: url(../images/subc-em
 .home-main{text-align: center; max-width: 800px; margin: 180px auto;}
 .home-main .hm-logo{ margin-bottom: 30px;}
 .home-main .hm-logo a{display: inline-block; background-image: url(../images/logo.png); background-size: cover; background-position: 50% 25%; width: 280px; height: 73.5px;}
-.home-main #hm-search{ width: 100%; display: inline-block; margin: 0 auto 60px; position: relative;}
+.home-main #hm-search{ width: 100%; display: inline-block; margin: 0 auto 20px; position: relative;}
 .home-main #hm-search .form-control{ height: 56px; background: #fff; font-size: 20px; padding-left: 20px; padding-right: 90px; box-shadow: none; color: #111; border: 1px solid rgba(0,0,0,0.2); border-radius: 5px;}
 .home-main #hm-search .form-control:focus{border-color: #0397D6}
 .home-main #hm-search .search-submit{ position: absolute; top: 0; right: 0; bottom: 0; height: 56px; width: 80px; display: inline-block; background: #00acc1; color: #fff; font-size: 26px; line-height: 54px; border-radius: 0 5px 5px 0;}
