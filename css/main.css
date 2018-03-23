@@ -1124,7 +1124,7 @@ i.subc-email{ width: 20px; height: 14px; background-image: url(../images/subc-em
     #mv-keywords a{ margin-right: 10px;}
     #mv-info .mvi-content .block-trailer{ display: block; overflow: hidden;}
     #mv-info .mvi-content .block-trailer a{padding: 6px 10px; width: 100%;}
-    #mv-info .mvi-content h3{line-height: 1.3em; margin-right: 0; padding-right: 0; margin-bottom: 10px; display: block;}
+    #mv-info .mvi-content h1{line-height: 1.3em; margin-right: 0; padding-right: 0; margin-bottom: 10px; display: block;}
     #mv-info .mvi-cover{ height: 180px;}
     .modal-trailer .modal-dialog .modal-body .modal-body-trailer iframe{ height: 180px !important;}
     .jwplayer,#123movies-player iframe{ height: 200px !important;}
