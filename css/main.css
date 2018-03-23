@@ -185,8 +185,8 @@ img.thumb.mli-thumb{ width: 100% !important; height: auto !important; min-height
 #mv-info .mvi-content .mvic-desc .desc{ width: 100%; margin-bottom: 10px; font-size: 12px; font-style: italic; color: #aaa; min-height: 50px;}
 #mv-info .mvi-content .mvic-info{ width: 100%; display: block;}
 #mv-info .mvi-content .mvic-info p{ margin-bottom: 3px;}
-#mv-info .mvi-content link{ margin: 0 0 3px 0;}
 #mv-info .mvi-content .mvic-info .mvici-left{ float: left; width: 48%; margin-right: 2%}
+#mv-info .mvi-content .mvic-info .mvici-left link{ margin: 0 0 3px 0;}
 #mv-info .mvi-content .mvic-info .mvici-right{ float: left; width: 50%;}
 #mv-info .mvi-content .mvic-thumb{ width: 140px; height: 210px; float: left; margin-right: 20px;}
 #mv-info .mvi-content .mvic-btn{ position: absolute; top: 10px; right: 0px; left: 900px; bottom: 20px;}
